@@ -1,0 +1,24 @@
+.cart_Button {
+  visibility: hidden;
+  position: absolute;
+  top: 0px;
+  left: 600px;
+  padding: 1%;
+  color: rgba(3, 12, 6, 0.815);
+  background-color: white;
+  border: 1px solid;
+  border-radius: 2px;
+}
+
+.download_button {
+    visibility: hidden;
+    position: absolute;
+    top: 0px;
+    left: 400px;
+    padding: 1%;
+    color: rgba(3, 12, 6, 0.815);
+    background-color: white;
+    border: 1px solid;
+    border-radius: 2px;
+  }
+  
